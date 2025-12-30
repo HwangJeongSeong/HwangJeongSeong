@@ -46,6 +46,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJeongSeong)](https://github.com/anuraghazra/github-readme-stats)
-
-
+### GitHub Stats
+![HwangJeongSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJeongSeong&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJeongSeong&layout=compact&langs_count=8)
