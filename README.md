@@ -1,10 +1,5 @@
 # 안녕하세요, 사나이 황정성입니다!👋
 
-### 요즘 집중하는 것
-- 컴퓨터 과학 기초 + 문제 해결력 강화
-- 읽기 쉬운 코드, 유지보수 가능한 구조
-- 협업을 위한 커뮤니케이션과 문서화
-
 ### 프로젝트
 #### 🛡️ GUARDIAN
 - 환자/보호자/매니저 협업 기반 복약 관리 서비스  
@@ -40,6 +35,3 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### GitHub Stats
-![HwangJeongSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJeongSeong&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJeongSeong&layout=compact)
