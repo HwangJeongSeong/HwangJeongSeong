@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 사나이 황정성입니다!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;Full-Stack+Developer;Always+Learning+�)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;Full-Stack+Developer;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
