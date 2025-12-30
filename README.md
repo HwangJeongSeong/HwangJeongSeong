@@ -81,7 +81,7 @@
 <img src="https://github-readme-stats-lac-five-57.vercel.app/api?username=HwangJeongSeong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats-lac-five-57.vercel.app/api/top-langs/?username=HwangJeongSeong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HwangJeongSeong&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HwangJeongSeong&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,6 +93,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjs54336297@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HwangJeongSeong)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangJeongSeong&count_bg=%236DB33F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=HwangJeongSeong&color=6DB33F&style=flat-square&label=Profile+Views)
 
 </div>
