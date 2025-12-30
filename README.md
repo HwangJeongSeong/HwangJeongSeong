@@ -31,7 +31,7 @@
 
 - 🔍 키워드 기반 탐색, 리뷰/이미지 업로드
 - ❤️ 좋아요, 위치 인증, 외부 API 연동
-- 💻 **Role**: 리뷰 기능 전담 (작성/조회/이미지/좋아요/신고)
+- 💻 **Role**: 리뷰 기능 전담 (작성/조회/이미지/좋아요)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/hyojung-kim/Cafe-Persona-Project)
 
