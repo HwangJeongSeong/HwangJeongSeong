@@ -35,3 +35,17 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+#### Realtime & Web
+![WebRTC](https://img.shields.io/badge/WebRTC-00A0C6?style=for-the-badge&logo=webrtc&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA%20(Web%20Push)-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+#### Test
+![H2](https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=databricks&logoColor=white)
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### GitHub Stats
+![HwangJeongSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJeongSeong&show_icons=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJeongSeong&layout=compact)
