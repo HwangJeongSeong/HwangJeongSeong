@@ -47,5 +47,5 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### GitHub Stats
-![HwangJeongSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJeongSeong&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJeongSeong&layout=compact&langs_count=8&cache_seconds=1800)
+![HwangJeongSeong's GitHub stats](https://github-readme-stats-git-master-hwangjeongseongs-projects.vercel.app/api?username=HwangJeongSeong&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-master-hwangjeongseongs-projects.vercel.app/api/top-langs/?username=HwangJeongSeong&layout=compact&langs_count=8&cache_seconds=1800)
