@@ -46,6 +46,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-### GitHub Stats
-![HwangJeongSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJeongSeong&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangJeongSeong&layout=compact)
